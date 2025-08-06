@@ -4,4 +4,4 @@ Building a program that finds homes in Nj for a given budget and home type, the 
 
 
 *updated note*
-search grounding before Big tech?
+
